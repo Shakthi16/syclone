@@ -1,0 +1,6 @@
+# Syclone
+
+> Paste any website URL and instantly generate a detailed AI replication prompt — colors, typography, layout, components — ready to rebuild the site in any AI.
+
+## Pages
+- [Home](/): Scan a website and generate a replication prompt or structured JSON spec.
